@@ -1,0 +1,51 @@
+pwd command:
+"print working directory"
+it is used to print current working directory.
+There are two types of pwd:
+1) built in command pwd (same as pwd -L) pwd
+2) actual binary pwd (same as pwd -P) /bin/pwd
+It has two flags -L, -P
+pwd -L gives Symbolic Path
+pwd -P gives Actual Path
+
+mkdir command:
+mkdir command in Linux allows the user to 
+create directories. can create multiple directories at 
+once  as well as set permission for directories.
+
+mkdir --version : It displays version number and 
+information related license and exit.
+mkdir --help: It displays the help related 
+information and exits.
+
+mkdir --verbose : It displays message for every directory
+created. you can create multiple directories using the 
+same.
+Syntax: mkdir --verbose one two three or
+mkdir --v one two three
+[three directory created]
+
+mkdir -p: this flag is used to create a directory inside a 
+directory
+syntax: mkdir -p -v abc/cde/efg
+
+mkdir -m a=rwx: to specify modes[directory name]
+
+cd command in linux known as change directory command.
+It is used to change current working directory.
+
+cd dirname: to move inside sub dir
+cd .. : to move to parent dir
+cd / : to move to root dir
+cd ~ : to move to home dir
+cd "dir name" : to access dir with spaces
+cd dir\ name :  "   "    "      "    "
+cd dir/dir2/dir3 : to move to another directory
+
+who command is used to find out the following information :
+1. Time of last system boot
+2. Current run level of the system
+3. List of logged in users and more.
+
+ 
+ 

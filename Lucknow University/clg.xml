@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collegelist>
+ <college>
+ <name>University of Lucknow</name>
+ <courselist>
+ <course>B.Tech</course>
+ <course>BCA</course>
+ <course>MCA</course>
+ </courselist>
+
+ </college>
+ <college>
+ <name>BBD University</name>
+ <courselist>
+ <course>B.Tech</course>
+ <course>BCA</course>
+ <course>MBA</course>
+ </courselist>
+
+ </college>
+ <college>
+ <name>AKTU</name>
+ <courselist>
+ <course>B.Tech</course>
+ <course>BCA</course>
+ <course>MCA</course>
+ </courselist>
+
+ </college>
+</collegelist>

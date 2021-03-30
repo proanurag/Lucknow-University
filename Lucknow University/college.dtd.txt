@@ -1,0 +1,5 @@
+<!ELEMENT college (name,course,semester+)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT course (#PCDATA)>
+<!ELEMENT semester (#PCDATA)>
+<!ATTLIST name a (3 | 4| 5) #REQUIRED>

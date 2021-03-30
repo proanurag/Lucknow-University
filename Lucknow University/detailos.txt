@@ -1,0 +1,42 @@
+An app for students in Lucknow university
+
+Usage:
+
+1)Syllabus
+2)Subject-wise notes(books)
+3)Faculty details
+4)Time table
+5)Fee mgmt(Optional)
+6)Report semester wise
+7)Complaint if any toward teachers(Anonymous)
+8)Notice
+7)Online Exam(Optional)
+8)About course(Home Page)
+9)Academic calendar
+
+Primary Keys:
+1) Roll no:
+2) Serial no:
+3) Name
+4) DOB 
+5) Course
+6) Faculty
+7) Father's/Mother's Name
+8) User ID
+9) Password
+ terms and condition
+
+
+Registration
+Login
+Home: 
+fragments
+
+An upload option where one can keep his file in scanned form for further usage.
+
+In navigation drawer univ name, faculty name and roll no would be displayed at top below that student's name would be shown
+
+
+
+
+ 
